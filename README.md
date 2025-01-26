@@ -1,3 +1,3 @@
-Login Admin Access:
+Informasi Pengguna
 NPM: Lycoris
-NAMA: 123
+Nama: 123
